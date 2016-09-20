@@ -20,8 +20,12 @@
 
 <style>
 	h1,h2 {
-		margin-top: -30px;
-		margin-bottom: -30px;
+		margin-top: -10px;
+		margin-bottom: -10px;
+	}
+	h3 {
+		margin-top: 7px;
+		margin-bottom: 3px;
 	}
 	tr,th {
 		border-width:1px;
