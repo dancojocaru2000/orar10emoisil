@@ -19,13 +19,20 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 <style>
-	h1,h2 {
+	h1 {
+		margin-top: -5px;
+		margin-bottom: -10px;
+		font-size: 4em;
+	}
+	h2 {
 		margin-top: -10px;
 		margin-bottom: -10px;
+		font-size: 3em;
 	}
 	h3 {
 		margin-top: 7px;
 		margin-bottom: 3px;
+		font-size: 1.3em;
 	}
 	tr,th {
 		border-width:1px;
