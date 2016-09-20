@@ -1,6 +1,6 @@
 <?php
   if (!isset($_GET["table"])) {
-    header("Location: http://orar9emoisil.esy.es/?table=1");
+    header("Location: http://orar10emoisil.esy.es/?table=1");
   }
 ?>
 
